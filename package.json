@@ -1,0 +1,27 @@
+{
+  "name": "universal-cookie-manager",
+  "version": "1.0.1",
+  "description": "A universal JavaScript library to manage cookies effortlessly on both the client and server-side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parnellleyva/universal-cookie-manager"
+  },
+  "keywords": [
+    "cookies",
+    "universal",
+    "js-cookie",
+    "cookie",
+    "universal-cookie"
+  ],
+  "author": "Artur Rotenberg",
+  "license": "ISC",
+  "dependencies": {
+    "js-cookie": "^3.0.1",
+    "cookie": "^0.4.1",
+    "universal-cookie": "^4.0.4"
+  }
+}
